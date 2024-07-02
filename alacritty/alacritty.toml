@@ -1,0 +1,47 @@
+[env]
+  TERM = 'xterm-256color'
+
+[selection]
+  save_to_clipboard = true
+
+[window]
+  opacity = 0.8
+  padding.x = 8
+  padding.y = 8
+
+[font]
+  size = 16.0
+  normal.family = 'JetBrains Mono Nerd Font'
+  #normal.family = 'CaskaydiaCove Nerd Font'
+
+[colors.primary]
+  background = '#101419'
+  foreground = '#FFFFFF'
+
+[colors.cursor]
+  text = '#111011'
+  cursor = '#77B894'
+
+[colors.selection]
+  text = '#FFFFFF'
+  background = '#77B894'
+  cursor = '#FFFFFF'
+
+[colors.normal]
+  black = '#293B52'
+  red = '#CCFFE3'
+  green = '#CCE0FF'
+  yellow = '#CCDFFF'
+  blue = '#9ABBE6'
+  magenta = '#C792EA'
+  cyan = '#9AB7E6'
+  white = '#CCFFE3'
+  # bright_black = '#101419'
+  # bright_red = '#FF6C60'
+  # bright_green = '#A7ED21'
+  # bright_yellow = '#FFEE54'
+  # bright_blue = '#B8D7A3'
+  # bright_magenta = '#C792EA'
+  # bright_cyan = '#89DDFF'
+  # bright_white = '#FFFFFF'
+  
